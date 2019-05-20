@@ -1,4 +1,4 @@
-# gan
+# GAN
 生成对抗神经网络
 
 # 增加document文件夹
